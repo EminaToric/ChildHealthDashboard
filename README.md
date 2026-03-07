@@ -3,12 +3,16 @@ An interactive data dashboard examining child health outcomes across seven globa
 Live Demo: View Dashboard ← replace with your Vercel URL
 
 Why I Built This
+
 The data on global child health is publicly available but rarely presented in a way that tells the full story. This project brings together four interconnected indicators — child mortality, stunting, water access, and food insecurity — to show how these factors compound on each other and why where a child is born still determines so much about whether they thrive.
 This is the kind of analysis I find most meaningful: using data not just to describe a problem but to understand the life circumstances behind it.
 
 What It Shows
+
 IndicatorSourceCoverageUnder-5 mortality rateWHO Global Health Observatory7 regions, 2000–2022Child stunting prevalenceUNICEF State of the World's Children 20237 regions, ~2022Access to safe drinking waterWorld Bank Development Indicators7 regions, ~2022Food insecurityFAO / World Bank7 regions, ~2022
+
 Dashboard Tabs
+
 Overview — Four interactive bar charts comparing all regions across each health indicator.
 Mortality Trends — Line chart tracking under-5 mortality from 2000 to 2022, showing where progress has been made and where the gap remains.
 Composite View — Radar charts showing the full health profile of four regions simultaneously, making it easy to see where intervention opportunities are strongest.
