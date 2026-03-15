@@ -127,9 +127,9 @@ const styles = `
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
-    --bg: #0F0E0C;
-    --bg2: #1A1815;
-    --bg3: #242118;
+    --bg: #242018;
+    --bg2: #2E2A24;
+    --bg3: #38342E;
     --border: rgba(255,255,255,0.07);
     --terra: #C4714A;
     --terra-light: #D4896A;
