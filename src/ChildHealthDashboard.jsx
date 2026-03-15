@@ -127,19 +127,19 @@ const styles = `
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
-    --bg: #242018;
-    --bg2: #2E2A24;
-    --bg3: #38342E;
-    --border: rgba(255,255,255,0.07);
+    --bg: #F7F3EE;
+    --bg2: #FDFAF7;
+    --bg3: #EDE4D8;
+    --border: rgba(0,0,0,0.07);
     --terra: #C4714A;
     --terra-light: #D4896A;
     --sage: #7A8C72;
     --blush: #C4908A;
     --gold: #C8A96A;
     --sky: #7AA0B8;
-    --cream: #F0EBE3;
-    --cream-faint: rgba(240,235,227,0.5);
-    --cream-ghost: rgba(240,235,227,0.2);
+    --cream: #1E1B18;
+    --cream-faint: rgba(30,27,24,0.6);
+    --cream-ghost: rgba(30,27,24,0.35);
   }
 
   body {
