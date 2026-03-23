@@ -1,6 +1,6 @@
 🌍 Global Child Health Equity Dashboard
 An interactive data dashboard examining child health outcomes across seven global regions — analyzing how geography and income level shape child survival, nutrition, water access, and food security.
-Live Demo: View Dashboard ← (https://child-health-dashboard.vercel.app/)
+Live Demo: [View Dashboard](https://child-health-dashboard.vercel.app/)
 
 Why I Built This
 
